@@ -58,7 +58,7 @@ The frontend interacts with a backend API (for example at `http://localhost:3000
 
 # Clone repository
 
-git clone https://github.com/Aishwarya-Naidu401/THworks_Assignment.git
+git clone https://github.com/aliabrar21/THworks-Assignment
 
 cd THworks_Assignment
 
@@ -116,5 +116,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
 # Contact
 
-Your Name – Aishwarya Naidu – aishwaryad401@gmail.com
+Your Name – Abrar Ali – sonuabrar1999@gmail.com
 
